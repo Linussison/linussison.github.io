@@ -20,7 +20,7 @@
       }
     ]
   },
-  "Research Experience": [
+  "work": [
     {
       "name": "Instrumentation Physics Laboratory, National Institute of Physics",
       "position": "Undergraduate Thesis Student",
@@ -40,7 +40,7 @@
       "highlights": ["quasi Terahertz time-domain spectroscopy setup construction"]
     }
   ],
-  "Work Experience": [
+  "volunteer": [
     {
       "organization": "People's Climate March",
       "position": "Lead Organizer",
