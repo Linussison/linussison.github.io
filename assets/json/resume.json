@@ -40,7 +40,7 @@
       "highlights": ["quasi Terahertz time-domain spectroscopy setup construction"]
     }
   ],
-  "volunteer": [
+  "volunteer (none)": [
     {
       "organization": "People's Climate March",
       "position": "Lead Organizer",
@@ -61,10 +61,10 @@
       "startDate": "2019-08-01",
       "endDate": "2024-01-01",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Graduate-level Electrodynamics I","Gradute-level Quantum Mechanics I", "Optical Physics", "Laser Physics", "Electronic Instrumentation"]
     }
   ],
-  "awards": [
+  "awards (none)": [
     {
       "title": "Nobel Prize in Physics",
       "date": "1921-11-01",
@@ -73,7 +73,7 @@
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
-  "certificates": [
+  "certificates (none)": [
     {
       "name": "Machine Learning",
       "date": "2018-01-01",
@@ -157,13 +157,13 @@
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
+      "language": "English",
+      "fluency": "Fluent (IELTS: 8.5)",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "Filipino",
+      "fluency": "Native Speaker",
       "icon": ""
     }
   ],
