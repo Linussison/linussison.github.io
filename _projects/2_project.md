@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Quasi-Terahertz Time Domain Spectroscopy
+description: Making terahertz spectroscopy setups less expensive by using semiconductor lasers
 img: assets/img/3.jpg
 importance: 2
 category: work

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Self-Mixing Interferometry
+description: Measuring displacements 100 times thinner than human hair
 img: assets/img/12.jpg
 importance: 1
 category: work
